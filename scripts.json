@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Fly Script",
+        "description": "Allows the player to fly.",
+        "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/user/flyscript.lua'))()"
+    },
+    {
+        "name": "ESP Script",
+        "description": "Highlights players.",
+        "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/user/espscript.lua'))()"
+    }
+]
